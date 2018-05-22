@@ -1,2 +1,2 @@
-rm -r file{1..5}
+rm -r dir1/dir2/dir3/file{1..5}
 
