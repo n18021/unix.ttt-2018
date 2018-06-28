@@ -1,3 +1,3 @@
 #!/bin/bash
-/var/log/auth.log log
+ln -s /var/log/auth.log log
 
